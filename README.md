@@ -35,7 +35,4 @@
 ## 🌎 Contato
 
 📧 [phmoncaio@gmail.com](mailto:phmoncaio@gmail.com)
-
-🌐 https://portfoliophmoncaio.netlify.app
-
 💼 LinkedIn: Pedro H. Moncaio
